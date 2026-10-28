@@ -40,7 +40,7 @@ Gosto de pensar no produto como um todo: **problema de negócio → experiência
 
 ## 🧭 Navegação rápida
 
-[**Serviços e soluções**](#-serviços-e-soluções) · [**IA e automação**](#-inteligência-artificial-agentes-e-automações) · [**Tecnologias**](#-tecnologias-e-ferramentas) · [**Projetos**](#-produtos-e-projetos) · [**Método de trabalho**](#-como-penso-e-construo-um-produto) · [**Contato**](#-vamos-conversar)
+[**Serviços e soluções**](#-serviços-e-soluções) · [**IA e automação**](#-inteligência-artificial-agentes-e-automações) · [**Tecnologias**](#-tecnologias-e-ferramentas) · [**Método de trabalho**](#-como-penso-e-construo-um-produto) · [**Contato**](#-vamos-conversar)
 
 ---
 
@@ -253,39 +253,6 @@ A escolha entre soluções locais, APIs e provedores externos depende de **quali
 
 ---
 
-## 🧪 Produtos e projetos
-
-### 🩺 EloLab · SaaS para gestão de clínicas
-
-**Em desenvolvimento**
-
-Plataforma de gestão de operações clínicas com foco em uma experiência unificada para diferentes áreas do atendimento.
-
-**Escopo de produto:** agenda, recepção, pacientes, prontuário, laboratório, financeiro, relatórios, comunicação, integrações e automação.
-
-**Desafios de engenharia:** modelagem de processos clínicos, permissões, confiabilidade, privacidade, organização modular e experiência de uso.
-
-### 🧭 Focusshub · Gestão de clientes e projetos
-
-**Em desenvolvimento**
-
-Plataforma para organizar a relação entre prestador de serviços e cliente.
-
-**Escopo de produto:** portal do cliente, acompanhamento de projetos, tarefas, comunicação, entregas e informações de cobrança.
-
-**Foco:** transparência, organização operacional e uma jornada digital mais clara para quem contrata serviços.
-
-### 🏢 Focussdev · Soluções digitais e desenvolvimento
-
-**Marca e atuação profissional**
-
-Criação de sites, sistemas, experiências digitais, automações, identidades visuais e integrações para negócios.
-
-**Portfólio e contato:** [focussdev.com.br](https://focussdev.com.br)
-
-> Nem todo projeto comercial tem código aberto. Repositórios privados, dados de clientes, segredos de integração e informações sensíveis permanecem fora do portfólio público.
-
----
 
 ## 🏗️ Como penso e construo um produto
 
