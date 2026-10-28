@@ -38,6 +38,8 @@ Gosto de pensar no produto como um todo: **problema de negócio → experiência
 
 ---
 
+**[Ver portfólio de projetos](portfolio/README.md)**
+
 ## 🧭 Navegação rápida
 
 [**Serviços e soluções**](#-serviços-e-soluções) · [**IA e automação**](#-inteligência-artificial-agentes-e-automações) · [**Tecnologias**](#-tecnologias-e-ferramentas) · [**Método de trabalho**](#-como-penso-e-construo-um-produto) · [**Contato**](#-vamos-conversar)
