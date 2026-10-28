@@ -315,7 +315,7 @@ Criação de sites, sistemas, experiências digitais, automações, identidades 
 
 Uma solução digital pode envolver diferentes especialidades no mesmo fluxo:
 
-\`\`\`text
+```text
 Ideia / problema do negócio
           |
           v
@@ -341,7 +341,7 @@ Testes + segurança + observabilidade
           |
           v
 Deploy + operação + evolução contínua
-\`\`\`
+```
 
 ---
 
